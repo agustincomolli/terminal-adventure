@@ -32,7 +32,7 @@ python the_cave.py
 ```
 
 ## Versión Ejecutable (Windows):
-1. Descarga la última versión desde [Releases](https://github.com/tu-usuario/terminal-adventure/releases)
+1. Descarga la última versión desde [Releases](https://github.com/agustincomolli/terminal-adventure/releases)
 2. Ejecuta `the_cave.exe`
 3. ¡Juega sin necesidad de instalar Python!
 
